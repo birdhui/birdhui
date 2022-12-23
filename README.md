@@ -5,7 +5,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/birdhui)
+프로필](http://birdhui.wtf/api/v2/generate_badge?boj=birdhui)](https://solved.ac/birdhui)
  
 <!--
 **birdhui/birdhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
