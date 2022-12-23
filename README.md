@@ -1,5 +1,5 @@
 ##  <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!%20My%20little%20Github%20&fontSize=40&fontAlign=75&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome!%20My%20little%20Github%20&fontSize=40&fontAlign=70&fontAlignY=40&color=gradient)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&&theme=gotham&show_icons=true" alt="birdhui" />
 
