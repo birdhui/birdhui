@@ -1,10 +1,6 @@
 Welcome to my Github 👋
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdhui&theme=gotham&show_icons=true)
-</p>
-
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&show_icons=true&theme=great-gatsby" alt="birdhui" />
 
 <!--
 **birdhui/birdhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
