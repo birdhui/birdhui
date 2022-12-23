@@ -3,9 +3,10 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&&theme=gotham&show_icons=true" alt="birdhui" />
 
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
-  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+ 
 <!--
 **birdhui/birdhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
