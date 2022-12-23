@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20My%20Github!%20fontSize=90&animation=fadeIn&fontAlignY=38&desc=Updating%20daily!%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20My%20Github!%20&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Updating%20daily!%20&descAlignY=51&descAlign=62)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&&theme=gotham&show_icons=true" alt="birdhui" />
 
