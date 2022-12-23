@@ -1,9 +1,11 @@
 ##  <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20Github!%20&fontSize=40&fontAlign=70&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome%20to%20My%20Github!%20&fontSize=40&fontAlign=70&fontAlignY=40&color=gradient)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&&theme=gotham&show_icons=true" alt="birdhui" />
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+  
 <!--
 **birdhui/birdhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
