@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdhui)](https://github.com/birdhui/github-readme-stats)
+
+
+
+
+
 <!--
 **birdhui/birdhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
