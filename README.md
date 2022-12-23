@@ -1,7 +1,7 @@
 Welcome to my Github 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdhui&theme=gotham&show_icons=true)
-
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdhui&theme=gotham&show_icons=true)
+</p>
 
 
 
