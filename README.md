@@ -6,9 +6,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&&theme=gotham&show_icons=true" alt="birdhui" /> 
 
  
-<a href="https://github.com/birdhui"><img src="contributions.svg"></a>
+<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+
 
  
 <!--
