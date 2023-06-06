@@ -3,7 +3,7 @@
 
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=birdhui)](https://solved.ac/malkoring) -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&show_icons=true&theme=gradation" alt="birdhui" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&show_icons=true&theme=linearGradient" alt="birdhui" /> 
 
 
 
