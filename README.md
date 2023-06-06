@@ -4,7 +4,6 @@
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=birdhui)](https://solved.ac/malkoring) -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birdhui&&theme=gotham&show_icons=true" alt="birdhui" /> 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
