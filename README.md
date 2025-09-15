@@ -1,6 +1,5 @@
 
-# capsule-render 예시
-![header](https://capsule-render.vercel.app/api?type=blur)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Welcome!My%Github)
 
 
 <!-- [![Solved.ac
