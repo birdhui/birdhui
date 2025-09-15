@@ -1,7 +1,7 @@
-
-
-##  <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=vendom&height=270&text=Welcome!%20My%20little%20Github%20&fontSize=40&fontAlign=65&fontAlignY=40&color=gradient)
+<vendom>
+# capsule-render 예시
+![header](https://capsule-render.vercel.app/api?type=blur)
+</vendom>
 
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=birdhui)](https://solved.ac/malkoring) -->
