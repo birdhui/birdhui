@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome!%20My%20Github&fontSize=40&fontColor=00000000&stroke=800080&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome!%20My%20Github&fontSize=45&fontColor=00000000&stroke=87CEEB&strokeWidth=2)
 
 
 
