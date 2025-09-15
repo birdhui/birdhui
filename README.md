@@ -1,7 +1,6 @@
-<!-- SVG 예시 (README에 넣기) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=90F2FF,FFAACF&background=FFFFFF00&multiline=true&vCenter=true&width=700&height=80&lines=Gradient+Text+Example" />
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome!%20My%20Github&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome!%20My%20Github&fontSize=40&fontColor=00000000&stroke=800080&strokeWidth=2)
+
 
 
 
