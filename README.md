@@ -1,7 +1,7 @@
-<vendom>
+
 # capsule-render 예시
 ![header](https://capsule-render.vercel.app/api?type=blur)
-</vendom>
+
 
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=birdhui)](https://solved.ac/malkoring) -->
